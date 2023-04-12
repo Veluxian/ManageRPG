@@ -1,0 +1,29 @@
+html{
+    background-color: rgba(41, 36, 36, 0.455);
+}
+.header{
+    background-color: rgb(159, 132, 111);
+    padding: 1%;
+    
+}
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.items{
+    background-color: rgba(41, 36, 36, 0.455);
+}
+.caja{
+    background-color: beige;
+}
+.footer{
+    background-color: rgb(159, 132, 111);
+    padding: 1%;
+}
+h1{
+    font-family: 'Rye';
+}
+.img-pxl{
+    width: 240px;
+    height: 240px;
+}
