@@ -1,12 +1,10 @@
-html{
-    background-color: rgba(41, 36, 36, 0.455);
-}
 .header{
     background-color: rgb(159, 132, 111);
     padding: 1%;
     
 }
 .body{
+    background-color: rgba(41, 36, 36, 0.455);
     margin: 0px;
     padding: 0px;
 }

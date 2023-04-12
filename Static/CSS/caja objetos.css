@@ -1,0 +1,64 @@
+.caja-objetos{
+    height: 600px;
+    overflow-y: scroll;
+    width: 80%;
+    margin: 5%;
+    border: 1px solid black;
+    background-color: rgba(165, 131, 79, 0.629);
+}
+
+.imagenes{
+    min-height: 200px;
+    max-height: 200px;
+
+}
+.table{
+    font-family: "Press Start 2P";
+}
+.thead{
+    background-color: rgba(0, 0, 0, 0.945);
+}
+.tbody{
+    background-color: rgba(0, 0, 0, 0.815);
+}
+
+th, td{
+    color: white;
+}
+.coin{
+    width: 100px;
+    height: 100px;
+}
+.monedas{
+    margin: 1%;
+    width: 10%;
+    height: 20%;
+}
+.capsula{
+    margin: 5%;
+    padding: 2% 2%;
+
+}
+.encapsulado{
+    float: left;
+    width: 50%;
+}
+.adicion{
+    float: left;
+}
+
+#testing{
+    margin-top: 10%;
+    margin-left: 5%;
+    justify-content: center;
+    font-size: larger;
+    font-family: "Press Start 2P";
+}
+.pesos{
+    display: inline-block;
+    background-color: rgba(142, 113, 63, 0.718);
+    vertical-align: middle;
+    width: 500px;
+    height: 300px;
+    border: 15px solid black;
+}
